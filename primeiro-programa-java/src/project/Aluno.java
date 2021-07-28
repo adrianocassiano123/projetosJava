@@ -12,6 +12,7 @@ public class Aluno {
 	double nota2;
 	double nota3;
 	double nota4;
+	double nota5;
 	
 	
 	public String getNome() {

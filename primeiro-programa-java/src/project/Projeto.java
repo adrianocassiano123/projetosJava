@@ -18,6 +18,7 @@ public class Projeto {
 		String nota2 = JOptionPane.showInputDialog("Nota 2");
 		String nota3 = JOptionPane.showInputDialog("Nota 3");
 		String nota4 = JOptionPane.showInputDialog("Nota 4");
+		String nota5 = JOptionPane.showInputDialog("Nota 5");
 		
 		
 		
